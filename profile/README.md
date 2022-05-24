@@ -3,6 +3,16 @@
  <p align="center">Application Library Engineering Group Available Projects</p>
 </p>
 
+ <p><a href="https://github.com/applibgroup/"><img alt="Contributors" src="https://cauldron.io/project/6276/export/svg/git_contributors.svg" /></a></p>
+</p>
+
+<p>We have classified each libraries according to different organization. 
+
+- <p><a href="https://github.com/applibgroup"> Applibgroup </a> projects </p>
+- <p><a href="https://github.com/Applib-HarmonyOS"> Applib-HarmonyOS </a> projects </p>
+- <p><a href="https://github.com/Applib-OpenHarmony"> Applib-OpenHarmony </a> projects </p>
+</p>
+
 SN|Library Name|Type of Library|Language|Open|Closed|Available Issues|
 |:-:|-|:-:|:-:|:-:|:-:|:-:|
 |1|[Smart Watch One](https://github.com/applibgroup/smart_watch_one)|UI design|JS|<a href="https://github.com/applibgroup/smart_watch_one/issues"><img alt="Issues" src="https://img.shields.io/github/issues/applibgroup/smart_watch_one" /></a>|<a href="https://github.com/applibgroup/smart_watch_one/issues"><img alt="Issues" src="https://img.shields.io/github/issues-closed/applibgroup/smart_watch_one?color=0088ff" /></a>|<a href="https://github.com/applibgroup/smart_watch_one/issues"><img alt="Issues" src="https://img.shields.io/github/issues-raw/applibgroup/smart_watch_one/available?label=available%20issues" /></a>|
