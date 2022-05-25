@@ -6,12 +6,6 @@
  <p><a href="https://github.com/applibgroup/"><img alt="Contributors" src="https://cauldron.io/project/6276/export/svg/git_contributors.svg" /></a></p>
 </p>
 
-<p>We have classified each libraries according to different organization. 
-
-- <p><a href="https://github.com/applibgroup"> Applibgroup </a> projects </p>
-- <p><a href="https://github.com/Applib-HarmonyOS"> Applib-HarmonyOS </a> projects </p>
-- <p><a href="https://github.com/Applib-OpenHarmony"> Applib-OpenHarmony </a> projects </p>
-</p>
 
 SN|Library Name|Type of Library|Language|Open|Closed|Available Issues|
 |:-:|-|:-:|:-:|:-:|:-:|:-:|
