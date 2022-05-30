@@ -3,8 +3,6 @@
  <p align="center">Application Library Engineering Group Available Projects</p>
 </p>
 
- <p><a href="https://github.com/applibgroup/"><img alt="Contributors" src="https://cauldron.io/project/6276/export/svg/git_contributors.svg" /></a></p>
-</p>
 
 
 SN|Library Name|Type of Library|Language|Open|Closed|Available Issues|
